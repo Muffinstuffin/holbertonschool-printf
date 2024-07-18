@@ -9,6 +9,7 @@ int _printf(const char *format, ...);
  * @args: A va_list of arguments provided to _printf.
  * @output: A buffer_t struct.
  */
+
 void cleanup(va_list args, buffer_t *output)
 {
 	va_end(args);
@@ -23,7 +24,9 @@ void cleanup(va_list args, buffer_t *output)
  * @args: A va_list of arguments.
  *
  * Return: The number of characters stored to output.
+ *
  */
+
 int run_printf(const char *format, va_list args, buffer_t *output)
 {
 	int i, wid, prec, ret = 0;
