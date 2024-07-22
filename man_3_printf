@@ -1,5 +1,5 @@
 .\" Man page for _printf.c
-.TH PRINTF 3 "November 2023" "Version 1.0" "User Commands"
+.TH PRINTF 3 "July 17 2024" "Version 1.0" "User Commands"
 
 .SH NAME
 \_printf - Unleash the Power of Custom Printing
