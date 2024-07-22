@@ -59,7 +59,7 @@ int main() {
 .BR snprintf (3)
 
 .SH AUTHOR
-Crafted by Nour Mohamed and Saif at Holberton School.
+Crafted by Tanita de Lange  at Holberton School.
 
 .SH COOLNESS DISCLAIMER
 Using \_printf may cause a surge in coolness. Handle with care and embrace the awesomeness.
